@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pelagg
-- 👀 I’m interested in web design, design automation tools, big data, machine learning.
+- 👀 I’m interested in web design, design automation tools, big data, machine learning and having fun.
 - 🌱 I’m currently learning deeper level of C++, C, Tcl, Python. Have plans to start learning HTML/CSS, PHP, Javascript and something used in big data tools.   
 - 💞️ I’m looking to collaborate on machine learning, AI.
 - 📫 How to reach me ...
